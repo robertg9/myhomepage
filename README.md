@@ -16,5 +16,4 @@ Nastêpnie utworzyæ bazê danych o nazwie myhomepage, w pliku konfiguracyjnym "con
 Zastosowana architektura to MVC
 System szablonów : Smarty
 
-czas wykonania oko³o 22h.
 
