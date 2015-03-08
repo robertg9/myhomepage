@@ -1,0 +1,1 @@
+<p>On this page, you can store a list of links to pages that you use to access them from any device.</p>
